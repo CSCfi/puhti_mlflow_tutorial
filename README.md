@@ -1,6 +1,7 @@
 # Instructions for Using and Testing the "Tutorial for MLflow in Puhti"
 
-<small>Erika Sternad / AIDA, CSC</small>
+<small>EBy rika Sternad / AIDA, CSC
+2024</small>
 
 ## Getting Started
 
@@ -18,14 +19,12 @@
 3. **Timing:**
    - Set a timer or track the time in another way before you begin. As you work through the tutorial, consider the following questions and take notes:
 
-## Evaluation Criteria
-
 ### 1. Clarity & Usability
    - Were the instructions for setting up Jupyter and MLflow on Puhti clear? Did you encounter any specific points of confusion?
    - Was the tutorial easy to follow step-by-step? If not, where did you face difficulties?
 
 ### 2. Technical Content
-   - Did the tutorial provide sufficient background on MLflow concepts and their application on a supercomputer?
+   - Did the tutorial provide sufficient background on MLflow concepts?
    - Were there any assumptions about prior knowledge that should have been explained more thoroughly?
    - Was the example code documented appropriately? Was there too much or too little documentation?
 
