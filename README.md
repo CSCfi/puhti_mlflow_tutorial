@@ -1,12 +1,9 @@
 # Instructions for Using and Testing the "Tutorial for MLflow in Puhti"
 
-<small>EBy rika Sternad / AIDA, CSC
-2024</small>
-
 ## Getting Started
 
 1. **Setup:**
-   - Clone this repository or download the zip file, then move it to your desired location in Puhti, such as `/projappl/project_id/username/` or `/scratch/project_id/username/`.
+   - You can either clone this repository directly to Puhti or download the zip file and move it to your desired location, such as `/projappl/project_id/username/` or `/scratch/project_id/username/`. To clone the repository directly, first run `module load git` to load the Git module.
    - Note that the tutorial includes images stored in the `/pics-` folder, so the `.ipynb` file alone will not function correctly without these images.
 
 2. **Jupyter App Configuration:**
