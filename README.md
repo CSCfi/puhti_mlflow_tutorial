@@ -1,5 +1,10 @@
 # Instructions for Using and Testing the "Tutorial for MLflow in Puhti"
 
+#### Updates:
+2024-9-2: Added first version
+2024-9-13: Added README with instruction for testing
+2024-9-25: Added second version with updates based on feedback
+
 ## Getting Started
 
 1. **Setup:**
@@ -30,7 +35,8 @@
 
 ### 4. Results
    - Were the results (parameters, metrics) from MLflow tracking clear and understandable?
-   - Was it easy to compare and analyze the performance of different models according to the instructions?
+   - Was it easy to compare and analyze the performance of d
+   ifferent models according to the instructions?
 
 ### 5. Suggestions for Improvement
    - What improvements or additional information would enhance the tutorial’s usefulness?
