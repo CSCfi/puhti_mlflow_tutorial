@@ -1,6 +1,6 @@
 # Instructions for Using and Testing the "Tutorial for MLflow in Puhti"
 
-<small>EBy rika Sternad / AIDA, CSC
+<small>By Erika Sternad / AIDA, CSC
 2024</small>
 
 ## Getting Started
