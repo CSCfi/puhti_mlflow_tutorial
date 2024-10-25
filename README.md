@@ -4,6 +4,8 @@
 2024-9-2: Added first version
 2024-9-13: Added README with instruction for testing
 2024-9-25: Added second version with updates based on feedback
+<small>By Erika Sternad / AIDA, CSC
+2024</small>
 
 ## Getting Started
 
