@@ -1,4 +1,4 @@
-# Instructions for Using and Testing the "Tutorial for MLflow in Puhti"
+# Instructions for Using the "Tutorial for MLflow in Puhti"
 <small>By Erika Sternad / CSC 
 2024</small>
 
